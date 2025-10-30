@@ -1379,6 +1379,14 @@
               "description": "",
               "icon": "/assets/favicon_1761816014088.png",
               "enabled": true
+            },
+            {
+              "id": "1761816033646",
+              "title": "Lithos",
+              "href": "https://lithos.to/pools",
+              "description": "访问 lithos.to",
+              "icon": "/assets/favicon_1761816036181.png",
+              "enabled": true
             }
           ]
         }
