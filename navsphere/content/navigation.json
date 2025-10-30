@@ -1435,6 +1435,14 @@
               "description": "Stable App makes stablecoin payments simple, instant, and secure. Sign up for early access and experience gas-free USDT transfers worldwide.",
               "icon": "/assets/favicon_1761816175011.ico",
               "enabled": true
+            },
+            {
+              "id": "1761816195223",
+              "title": "Momentum | Move Central Liquidity Engine",
+              "href": "https://app.mmt.finance/",
+              "description": "",
+              "icon": "/assets/favicon_1761816196999.png",
+              "enabled": true
             }
           ]
         }
