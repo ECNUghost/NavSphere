@@ -1534,6 +1534,14 @@
               "description": "截图 + 贴图，提高您的工作效率",
               "icon": "/assets/favicon_1761816516584.ico",
               "enabled": true
+            },
+            {
+              "id": "1761816526071",
+              "title": "微信 Markdown 编辑器 | Doocs 开源社区",
+              "href": "https://doocs.github.io/md/",
+              "description": "Wechat Markdown Editor | 一款高度简洁的微信 Markdown 编辑器",
+              "icon": "/assets/favicon_1761816527883.png",
+              "enabled": true
             }
           ]
         }
