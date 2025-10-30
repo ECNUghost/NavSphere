@@ -1451,6 +1451,14 @@
               "description": "访问 one.plasma.to",
               "icon": "/assets/favicon_1761816221475.png",
               "enabled": true
+            },
+            {
+              "id": "1761816242172",
+              "title": "Legion",
+              "href": "https://legion.cc/",
+              "description": "访问 legion.cc",
+              "icon": "/assets/favicon_1761816244593.png",
+              "enabled": true
             }
           ]
         }
