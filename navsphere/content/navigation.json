@@ -1379,6 +1379,14 @@
               "description": "Trade Tomorrow Now",
               "icon": "/assets/favicon_1761815981151.svg",
               "enabled": true
+            },
+            {
+              "id": "1761815992964",
+              "title": "OpenMind Dashboard",
+              "href": "https://fabric.openmind.org/sign-in",
+              "description": "",
+              "icon": "/assets/favicon_1761816014088.png",
+              "enabled": true
             }
           ]
         }
