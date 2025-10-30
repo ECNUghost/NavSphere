@@ -1510,6 +1510,14 @@
               "description": "Excalidraw is a virtual collaborative whiteboard tool that lets you easily sketch diagrams that have a hand-drawn feel to them.",
               "icon": "/assets/favicon_1761816463769.png",
               "enabled": true
+            },
+            {
+              "id": "1761816483278",
+              "title": "IT Tools - Handy online tools for developers",
+              "href": "https://it-tools.tech",
+              "description": "Collection of handy online tools for developers, with great UX. IT Tools is a free and open-source collection of handy online tools for developers & people working in IT.",
+              "icon": "/assets/favicon_1761816485312.ico",
+              "enabled": true
             }
           ]
         }
