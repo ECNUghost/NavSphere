@@ -1459,6 +1459,14 @@
               "description": "访问 legion.cc",
               "icon": "/assets/favicon_1761816244593.png",
               "enabled": true
+            },
+            {
+              "id": "1761816258170",
+              "title": "Buidlpad",
+              "href": "https://buidlpad.com/",
+              "description": "访问 buidlpad.com",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=buidlpad.com",
+              "enabled": true
             }
           ]
         }
