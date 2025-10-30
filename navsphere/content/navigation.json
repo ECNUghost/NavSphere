@@ -1479,7 +1479,16 @@
       "description": "",
       "enabled": true,
       "items": [],
-      "subCategories": []
+      "subCategories": [
+        {
+          "id": "90821c6a-2bcd-4dd7-b3c0-60847ec1efb9",
+          "title": "工具",
+          "icon": "Box",
+          "description": "",
+          "enabled": true,
+          "items": []
+        }
+      ]
     }
   ]
 }
