@@ -1387,6 +1387,14 @@
               "description": "访问 lithos.to",
               "icon": "/assets/favicon_1761816036181.png",
               "enabled": true
+            },
+            {
+              "id": "1761816067834",
+              "title": "Polymarket — Get Early Access",
+              "href": "https://polymarket.us",
+              "description": "Skip the line. Get in early. Invite friends to jump the queue.",
+              "icon": "/assets/favicon_1761816069545.png",
+              "enabled": true
             }
           ]
         }
