@@ -1348,6 +1348,15 @@
           ]
         }
       ]
+    },
+    {
+      "id": "1761815215090",
+      "title": "web3",
+      "icon": "Bell",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
     }
   ]
 }
