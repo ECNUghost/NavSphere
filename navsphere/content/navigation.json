@@ -1502,6 +1502,14 @@
               "description": "A free and instant virtual whiteboarding with online collaboration. No signup required. Works on all devices: mobile, tablets, and desktop.",
               "icon": "/assets/favicon_1761816426749.svg",
               "enabled": true
+            },
+            {
+              "id": "1761816461672",
+              "title": "Excalidraw Whiteboard",
+              "href": "https://excalidraw.com",
+              "description": "Excalidraw is a virtual collaborative whiteboard tool that lets you easily sketch diagrams that have a hand-drawn feel to them.",
+              "icon": "/assets/favicon_1761816463769.png",
+              "enabled": true
             }
           ]
         }
