@@ -1526,6 +1526,14 @@
               "description": "",
               "icon": "/assets/favicon_1761816502623.ico",
               "enabled": true
+            },
+            {
+              "id": "1761816513506",
+              "title": "Snipaste - 截图 + 贴图",
+              "href": "https://zh.snipaste.com/index.html",
+              "description": "截图 + 贴图，提高您的工作效率",
+              "icon": "/assets/favicon_1761816516584.ico",
+              "enabled": true
             }
           ]
         }
