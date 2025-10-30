@@ -1518,6 +1518,14 @@
               "description": "Collection of handy online tools for developers, with great UX. IT Tools is a free and open-source collection of handy online tools for developers & people working in IT.",
               "icon": "/assets/favicon_1761816485312.ico",
               "enabled": true
+            },
+            {
+              "id": "1761816500663",
+              "title": "Xnip | Handy Screenshot App for Mac",
+              "href": "https://www.xnipapp.com",
+              "description": "",
+              "icon": "/assets/favicon_1761816502623.ico",
+              "enabled": true
             }
           ]
         }
