@@ -1567,6 +1567,14 @@
               "description": "非官方的红色警戒2重制版，用前端技术完全重构，支持浏览器直接打开随时随地畅玩，和全球玩家实时对战，或者爆锤电脑AI",
               "icon": "/assets/favicon_1761816747367.ico",
               "enabled": true
+            },
+            {
+              "id": "1761816758002",
+              "title": "BinBashBanana · GitHub",
+              "href": "https://github.com/BinBashBanana",
+              "description": "OlyB#9420 / olyb. BinBashBanana has 35 repositories available. Follow their code on GitHub.",
+              "icon": "/assets/favicon_1761816767471.png",
+              "enabled": true
             }
           ]
         }
