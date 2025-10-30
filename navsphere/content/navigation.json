@@ -1544,6 +1544,14 @@
               "enabled": true
             }
           ]
+        },
+        {
+          "id": "a1ff6700-6858-4ad3-989a-bea03b0a4547",
+          "title": "游戏",
+          "icon": "Coffee",
+          "description": "",
+          "enabled": true,
+          "items": []
         }
       ]
     }
