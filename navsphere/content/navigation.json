@@ -1559,6 +1559,14 @@
               "description": "fpsgo.net is your first and best source for all of the information you’re looking for. From general topics to more of what you would expect to find here, fpsgo.net has it all. We hope you find what you are searching for!",
               "icon": "/assets/favicon_1761816718740.png",
               "enabled": true
+            },
+            {
+              "id": "1761816743903",
+              "title": "红色井界-全平台即时战略爽游",
+              "href": "https://ra2web.com",
+              "description": "非官方的红色警戒2重制版，用前端技术完全重构，支持浏览器直接打开随时随地畅玩，和全球玩家实时对战，或者爆锤电脑AI",
+              "icon": "/assets/favicon_1761816747367.ico",
+              "enabled": true
             }
           ]
         }
