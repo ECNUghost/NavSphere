@@ -1395,6 +1395,14 @@
               "description": "Skip the line. Get in early. Invite friends to jump the queue.",
               "icon": "/assets/favicon_1761816069545.png",
               "enabled": true
+            },
+            {
+              "id": "1761816105183",
+              "title": "MegaETH | Public Sale",
+              "href": "https://token.megaeth.com/",
+              "description": "MegaETH is real-time Ethereum, streaming transactions at lightning speed: 10-millisecond latency and over 20,000 transactions per second.",
+              "icon": "/assets/favicon_1761816108020.ico",
+              "enabled": true
             }
           ]
         }
