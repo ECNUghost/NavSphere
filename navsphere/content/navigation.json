@@ -1411,6 +1411,14 @@
               "description": "访问 aid.gaib.ai",
               "icon": "/assets/favicon_1761816125712.png",
               "enabled": true
+            },
+            {
+              "id": "1761816141450",
+              "title": "Brevis Campaign",
+              "href": "https://proving-grounds.brevis.network/",
+              "description": "Join the mission, complete objectives, and earn Brevis Spark points.",
+              "icon": "/assets/favicon_1761816143407.png",
+              "enabled": true
             }
           ]
         }
