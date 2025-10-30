@@ -1403,6 +1403,14 @@
               "description": "MegaETH is real-time Ethereum, streaming transactions at lightning speed: 10-millisecond latency and over 20,000 transactions per second.",
               "icon": "/assets/favicon_1761816108020.ico",
               "enabled": true
+            },
+            {
+              "id": "1761816123075",
+              "title": "Aid",
+              "href": "http://aid.gaib.ai",
+              "description": "访问 aid.gaib.ai",
+              "icon": "/assets/favicon_1761816125712.png",
+              "enabled": true
             }
           ]
         }
