@@ -1443,6 +1443,14 @@
               "description": "",
               "icon": "/assets/favicon_1761816196999.png",
               "enabled": true
+            },
+            {
+              "id": "1761816217854",
+              "title": "plasmaOne",
+              "href": "https://one.plasma.to/#waitlist",
+              "description": "访问 one.plasma.to",
+              "icon": "/assets/favicon_1761816221475.png",
+              "enabled": true
             }
           ]
         }
