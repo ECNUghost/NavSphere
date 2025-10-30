@@ -1419,6 +1419,14 @@
               "description": "Join the mission, complete objectives, and earn Brevis Spark points.",
               "icon": "/assets/favicon_1761816143407.png",
               "enabled": true
+            },
+            {
+              "id": "1761816158250",
+              "title": "Rewards | USD AI",
+              "href": "https://app.usd.ai/rewards?strategy=auto",
+              "description": "The yield-bearing synthetic dollar backed by AI infrastructure.",
+              "icon": "/assets/favicon_1761816160552.ico",
+              "enabled": true
             }
           ]
         }
