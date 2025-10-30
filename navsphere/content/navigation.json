@@ -1486,7 +1486,16 @@
           "icon": "Box",
           "description": "",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "1761816407094",
+              "title": "Notion 风格头像制作",
+              "href": "https://notion-avatar.vercel.app/zh",
+              "description": "一个 Notion 手绘风格头像制作工具，支持自定义面部特征、发型、眼镜、胡须和配饰，一键生成独特的个人头像。适用于 Notion、GitHub、Twitter 等社交平台，完美契合团队协作和个人品牌打造。立即体验，轻松创建专属于你的 Notion 风格头像！",
+              "icon": "/assets/favicon_1761816414667.png",
+              "enabled": true
+            }
+          ]
         }
       ]
     }
